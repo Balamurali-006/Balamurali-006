@@ -13,10 +13,10 @@ Welcome to my GitHub profile! I’m passionate about building intelligent system
 
 ## 🚀 About Me  
 - 🔭 Currently working on:  
-  **Building AI/ML models for real-world applications**
-  **Exploring Flutter & cross-platform app development**
-  **Learning and applying cloud technologies & data engineering**
-  **Practicing competitive programming & problem-solving**
+  -**Building AI/ML models for real-world applications**
+  -**Exploring Flutter & cross-platform app development**
+  -**Learning and applying cloud technologies & data engineering**
+  -**Practicing competitive programming & problem-solving**
 - 🌱 Learning advanced **Algorithms, Cloud Computing, and Computer Vision**  
 - 💬 Ask me about **AI/ML, Flutter, Cloud, and Data Mining Tools**  
 - ⚡ Fun fact: I love mixing tech with storytelling to make concepts easier to grasp  
@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I’m passionate about building intelligent system
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/balamurali-m-940879316/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balamurali-m-940879316/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white)](https://balamuraliportfolio.netlify.app/) 
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:balammuu0023@gmail.com)  
 
