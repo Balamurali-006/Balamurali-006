@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Lenin  
 
-🎯 **AI/ML Enthusiast | Flutter Developer | Problem Solver**  
+🎯 **AI/ML Enthusiast | Full_stack Developer | Data Scientist | Problem Solver**  
 
 Welcome to my GitHub profile! I’m passionate about building intelligent systems, exploring creative applications of AI, and crafting user-friendly software experiences.  
 
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I’m passionate about building intelligent system
 ## 🛠️ Tech Stack  
 
 **Languages & Frameworks**  
-- Python | Java | Dart (Flutter) | JavaScript | HTML/CSS  
+- Python | Java | Dart (Flutter) | JavaScript | HTML/CSS | React | MangoDB | Node js 
 
 **Machine Learning & AI**  
 - TensorFlow | PyTorch | OpenCV | Hugging Face | Weka  
@@ -34,17 +34,10 @@ Welcome to my GitHub profile! I’m passionate about building intelligent system
 
 ---
 
-## 📊 GitHub Stats  
-
-![Lenin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
-
----
-
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white)](https://YOUR-PORTFOLIO-LINK)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/balamurali-m-940879316/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white)](https://balamuraliportfolio.netlify.app/) 
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:balammuu0023@gmail.com)  
 
 ---
 
