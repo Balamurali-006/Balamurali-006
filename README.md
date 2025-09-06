@@ -3,7 +3,7 @@
 
 ---
 
-# 👋 Hi, I'm Lenin  
+# 👋 Hi, I'm Bala Murali  
 
 🎯 **AI/ML Enthusiast | Full-Stack Developer | Data Scientist | Problem Solver**  
 
@@ -33,15 +33,6 @@ Welcome to my GitHub profile! I’m passionate about building intelligent system
 
 **Tools & Platforms**  
 - Git/GitHub | Google Cloud | Firebase | Trello | Roboflow  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balamurali0023&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balamurali0023&layout=compact&theme=tokyonight" height="165"/>
-</p>
 
 ---
 
