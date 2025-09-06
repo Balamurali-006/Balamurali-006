@@ -13,8 +13,10 @@ Welcome to my GitHub profile! I’m passionate about building intelligent system
 
 ## 🚀 About Me  
 - 🔭 Currently working on:  
-  - **TinyToes** – AI-powered parenting assistant  
-  - **GitHub Repo Analyzer** – NLP-based project summarizer  
+  **Building AI/ML models for real-world applications**
+  **Exploring Flutter & cross-platform app development**
+  **Learning and applying cloud technologies & data engineering**
+  **Practicing competitive programming & problem-solving**
 - 🌱 Learning advanced **Algorithms, Cloud Computing, and Computer Vision**  
 - 💬 Ask me about **AI/ML, Flutter, Cloud, and Data Mining Tools**  
 - ⚡ Fun fact: I love mixing tech with storytelling to make concepts easier to grasp  
